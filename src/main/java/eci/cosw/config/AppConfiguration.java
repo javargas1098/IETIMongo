@@ -1,3 +1,5 @@
+package eci.cosw.config;
+
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientURI;
 
